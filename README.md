@@ -1,2 +1,46 @@
-# language-learning-client-portal-wordpress-plugin
-Secure client login, document sharing, project status updates, and messaging. Professional client experience without custom development.
+# Language Learning Client Portal WordPress Plugin
+
+> Plugin for Language Learning
+
+language learning professionals waste hours on wrestling with incompatible WordPress plugins that fight each other. This fixes that.
+
+Regular security updates. Works with WordPress multisite. Fully documented admin settings panel — no code required for configuration.
+
+## What's Included
+
+- Language Learning Client Portal — fully configured and...
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | ✅ | ✅ |
+| Basic settings | ✅ | ✅ |
+| Standard widgets | ✅ | ✅ |
+| Advanced features | ❌ | ✅ |
+| Priority support | ❌ | ✅ |
+| Custom post types | ❌ | ✅ |
+| API access | ❌ | ✅ |
+| White-label option | ❌ | ✅ |
+| Multisite support | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$29.99** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/5kQeVdbHh1g01de47qcZH1d)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
